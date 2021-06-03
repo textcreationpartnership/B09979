@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Proclamation for putting former acts and proclamations anent beggars in execution</title>
+            <author>Scotland. Privy Council.</author>
+         </titleStmt>
+         <extent>Approx. 4KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B09979</idno><idno type="EEBO-CITATION">61297152</idno>
+  <idno type="VID">180663</idno>
+  <idno type="EEBO-PROQUEST">2240865863</idno>
+  
+            <idno type="STC">Wing S1892_VARIANT</idno>
+            <idno type="STC">ESTC R183525</idno>
+            <idno type="OCLC">61297152</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B09979)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 180663)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2840:4)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Proclamation for putting former acts and proclamations anent beggars in execution</title>
+                  <author>Scotland. Privy Council.</author>
+                  <author>Eliot, Gilbert, Sir, 1651-1718.</author>
+                  <author>Scotland. Sovereign (1689-1694 : William and Mary).</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>Printed by the heirs and successors of Andrew Anderson,</publisher>
+                  <pubPlace>Edinburgh :</pubPlace>
+                  <date>Anno Dom 1694.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"Per actum dominorum secreti concilii, Gilb. Eliot, cis. sti. concilii."</note>
+                  <note>"Given under our signet at Edinburgh, the last day of July. And of our reign the sixth year, 1694."</note>
+                  <note>Royal coat of arms at head of text.</note>
+                  <note>Reproduction of original in: National Library of Scotland.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Poor laws --  Scotland --  Early works to 1800.</term>
+               <term type="topical_term">Beggars --  Scotland --  Early works to 1800.</term>
+               <term type="genre_form">Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-10 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-10 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-10 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="proclamation">
+            <pb facs="tcp:180663:1"/>
+            <head>PROCLAMATION, For putting former Acts and Proclamations anent Beggars in Execution.</head>
+            <p>
+               <hi>
+                  <seg rend="decorInit">W</seg>ILLIAM</hi> and <hi>MARY</hi> by the Grace of GOD, King and Queen of <hi>Great-Britain, France</hi> and <hi>Ireland,</hi> Defenders of the Faith; To <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> Macers of Our Privy Council, Messengers at Arms, Our Sheriffs in that part, conjunctly and severally, specially constitute, Greeting: Forasmuch as many good Laws have been made by Our Royal Predecessors, for maintaining the Poor, and relieving the Leidges from Vagabonds, in Prosecution whereof, several Proclamations have been Emitted by Our Privy Council, for the better putting the saids Laws in Execution, notwithstanding whereof, Due Obedience hath not been hitherto given to the same; So that the Poor are not duly Provi<g ref="char:EOLhyphen"/>ded for, nor the Vagabonds restrained in many places: Therefore We, with Advice of the Lords of Our Privy Council, hereby Require and Command the Ministers, Heretors, and Elders of e<g ref="char:EOLhyphen"/>very Paroch, and Housholders, and Inhabitants within the same <hi>respectivè,</hi> to follow forth, observe and give ready obedience to the Acts of Parliament, and Proclamations of Our Privy Council, alrea<g ref="char:EOLhyphen"/>dy made and Emitted thereanent. And further, We, with Advice foresaid, Require and Com<g ref="char:EOLhyphen"/>mand, the Sheriffs of the several Shires and their Deputs, Justices of Peace, and Magistrats of the Royal Burghs of this Kingdom, within their several Jurisdictions, to take Tryal how far, and in what manner the saids Acts of Par<g ref="char:EOLhyphen"/>liament, and Proclamations of Council have been obeyed and put to execution, conform to the Tenors thereof; and where any have neglected or been deficient and wanting in what is Required of them by the saids Acts and Proclamations, to Amerciat and Fine them therefore in manner therein specified and prescribed; And if any difficulty shall happen in the after Prosecution thereof, through what cause or occasion soever, not provided for by the saids Laws and Proclamations already Emitted thereanent; the Magistrats <hi>re<g ref="char:EOLhyphen"/>spectivè</hi> foresaid, are hereby required to Represent the same to the Lords of Our Privy Council, that they may give such order there<g ref="char:EOLhyphen"/>anent, as may bring this good Work of relieving the Poor, and restraining Vagabonds to the desired issue. For the better effectuating whereof, We, with Advice foresaid, Have Nominat and Appointed a Committee of the Lords of Our Privy Council, to receive in a<g ref="char:EOLhyphen"/>ny Representations from the Magistrats <hi>respectivè</hi> above-named; And likewise with Power to them to call and conveen before them the Sheriffs and other Magistrats <hi>respectivè</hi> foresaid, to whom the Execution of the saids Acts and Proclamations are committed; and particularly the Magistrats of <hi>Edinburgh,</hi> and to Examine and take Tryal of their Negligence in the said Matter, and to modifie the Fines and Penalties to be exacted from them for the same, and to Report their Opinion therein to a full Council, the first Council Day of <hi>September</hi> next. OUR WILL IS HEREFORE, and We Charge you strictly and Command, that incontinent these Our Letters seen, ye pass to the Mercat-Cross of <hi>Edinburgh,</hi> and remanent Mercat-Crosses of the Head-Burghs of the several Shires within this Kingdom, and there, in Our Name and Authority, make publick Intimation of the Premisses, that none may pretend Ignorance.</p>
+            <closer>
+               <dateline>
+                  <hi>Given under Our Signet at</hi> Edinburgh, <date>
+                     <hi>the last Day of</hi> July. <hi>And of Our Reign the sixth Year,</hi> 1694.</date>
+               </dateline>
+               <hi>Per actum Dominorum Secreti Concilii.</hi>
+               <signed>GILB. ELIOT, <hi>Cls. Sti. Concilii.</hi>
+               </signed>
+            </closer>
+            <closer>GOD Save King <hi>William</hi> and Queen <hi>Mary.</hi>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>Edinburgh,</hi> Printed by the Heirs and Successors of <hi>Andrew Anderson,</hi> Printer to Their most Excellent Majesties, <hi>Anno DOM.</hi> 1694.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
